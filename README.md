@@ -23,7 +23,3 @@ Os scripts SQL necessários para configurar o banco de dados estão localizados 
 
 O **Flyway** será responsável pela execução dos scripts iniciais durante o processo de migração do banco de dados.
 
----
-
-**Nota**: Certifique-se de que os scripts SQL estejam devidamente configurados e que o Flyway esteja corretamente integrado ao projeto antes de executar o sistema.
-
